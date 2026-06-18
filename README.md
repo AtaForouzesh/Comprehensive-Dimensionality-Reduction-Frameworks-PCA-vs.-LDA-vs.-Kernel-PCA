@@ -28,7 +28,7 @@ This repository features an advanced data science benchmark evaluation comparing
 ## 📊 Evaluation Matrix
 
 | Pipeline Workspace | Reduction Paradigm | Precision (Macro) | Recall (Macro) | F1-Score (Macro) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- |
 | **Nutritional Profiling (Pizza)** | PCA (Linear, Unsupervised) | *76%* | *75%* | *74%* |
-| **Morphological Taxonomy (Iris)** | LDA (Linear, Supervised) | *[Insert %]* | *[Insert %]* | *[Insert %]* |
-| **Diagnostic Analytics (Diabetes)**| Kernel PCA (Non-Linear) | *[Insert %]* | *[Insert %]* | *[Insert %]* |
+| **Morphological Taxonomy (Iris)** | LDA (Linear, Supervised) | *97%* | *96%* | *96%* |
+| **Diagnostic Analytics (Diabetes)**| Kernel PCA (Non-Linear) | *69%* | *67%* | *68%* |
