@@ -27,8 +27,8 @@ This repository features an advanced data science benchmark evaluation comparing
 
 ## 📊 Evaluation Matrix
 
-| Case Pipeline | Algorithmic Transformation | Target Objective | Input Dimensionality | Target Space Profile |
-| :--- | :--- | :--- | :--- | :--- |
-| **Nutritional Profiling** | **PCA** (Linear, Unsupervised) | Feature Max-Variance Compression | 7 Continuous Features | 10 Discrete Pizza Brands |
-| **Morphological Taxonomy** | **LDA** (Linear, Supervised) | Inter-Class Geometric Dispersion | 4 Continuous Features | 3 Plant Species |
-| **Diagnostic Analytics** | **Kernel PCA** (RBF, Unsupervised) | Non-Linear Manifold Separability | 8 Continuous Features | Binary Health Outcomes |
+| Pipeline Workspace | Reduction Paradigm | Precision (Macro) | Recall (Macro) | F1-Score (Macro) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Nutritional Profiling (Pizza)** | PCA (Linear, Unsupervised) | *76%* | *75%* | *74%* |
+| **Morphological Taxonomy (Iris)** | LDA (Linear, Supervised) | *[Insert %]* | *[Insert %]* | *[Insert %]* |
+| **Diagnostic Analytics (Diabetes)**| Kernel PCA (Non-Linear) | *[Insert %]* | *[Insert %]* | *[Insert %]* |
